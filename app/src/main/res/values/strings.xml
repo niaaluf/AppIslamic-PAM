@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppIslamic</string>
+    <string name="niat_sholat">Niat Sholat</string>
+    <string name="bacaan_sholat">Bacaan Sholat</string>
+    <string name="bacaan_sholat_shubuh">Bacaan Sholat Shubuh</string>
+    <string name="bacaan_sholat_zuhur">Bacaan Sholat Zuhur</string>
+    <string name="bacaan_sholat_ashar">Bacaan Sholat Ashar</string>
+    <string name="bacaan_sholat_maghrib">Bacaan Sholat Maghrib</string>
+    <string name="bacaan_sholat_isya">Bacaan Sholat Isya</string>
+    <string name="shubuh">Shubuh</string>
+    <string name="zuhur">Zuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+</resources>
